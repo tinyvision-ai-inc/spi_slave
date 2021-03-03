@@ -1,0 +1,10 @@
+
+sim/transcript
+sim/work/*
+*.vcd
+*.history
+*.exe
+*.asc
+*.bin
+*.json
+*.blif
