@@ -1,3 +1,7 @@
+/* 
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+*/
+
 `timescale 1ns/1ps
 
 module spi_shifter_tb;

@@ -1,3 +1,6 @@
+#  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+
 import sys
 import time
 from os import environ

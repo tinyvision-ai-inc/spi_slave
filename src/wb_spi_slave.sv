@@ -1,3 +1,7 @@
+/* 
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+*/
+
 `default_nettype none
 
 module wb_spi_slave (

@@ -1,3 +1,6 @@
+/* 
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+*/
 
 `define expect_h(name,expectedVal,actualVal) if ((expectedVal) !== (actualVal)) begin $display("[ERROR] %m %t %s expected='h%X actual='h%X", ($time), (name), (expectedVal), (actualVal)); #1000; $finish; end else begin $display("[PASS] %s='h%X", (name), (actualVal)); end
 

@@ -3,6 +3,8 @@
  * Module: spi_shifter
  * 
  * TODO: Add module documentation
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
  */
 `default_nettype none
 

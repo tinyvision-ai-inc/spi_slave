@@ -1,3 +1,7 @@
+/* 
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+*/
+
 module spi_slave_tb;
 
     parameter debug = 0;
